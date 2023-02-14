@@ -34,8 +34,6 @@ bandit0@bandit.labs.overthewire.org's password:
 ls  listar archivos 
 ls -la , listar archivos en forma extendida
 pwd , saber en que carpeta estoy
-sdfjsdlsdjf
-
 
 ## Referencias
 

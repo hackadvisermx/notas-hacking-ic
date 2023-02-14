@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/plantilla.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 0.md"
+                "file": "retos-bandit/plantilla.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "94ec316cea2489c4",
   "lastOpenFiles": [
-    "README.md",
     "retos-bandit/Level 0.md",
+    "README.md",
     "retos-bandit/plantilla.md"
   ]
 }
