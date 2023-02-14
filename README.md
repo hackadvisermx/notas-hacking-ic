@@ -6,6 +6,10 @@ castr@uaz.edu.mx
 
 ## Retos documentados
 - Retos bandit
+- otra
+- otra
+- otra
+- otra
 - 
 
 
